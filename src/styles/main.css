@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image: url("https://assets.epicsevendb.com/website/bg_tablet-up.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  padding: 16px;
+}
+.full-width {
+  width: 100%;
+}
+
+.center {
+  justify-content: center;
+}
+
+ul {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+}
+
+.clear { 
+  display: none; 
+}
